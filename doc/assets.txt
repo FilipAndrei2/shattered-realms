@@ -1,0 +1,9 @@
+enemies:
+
+slime : https://opengameart.org/content/top-down-rpg-slime-creatures-pixel-art
+carnivore plant : https://craftpix.net/freebies/free-predator-plant-mobs-pixel-art-pack/
+
+
+npc:
+princess: https://www.spriters-resource.com/pc_computer/forager/sheet/133927/
+ghost: https://www.spriters-resource.com/fullview/133917/
